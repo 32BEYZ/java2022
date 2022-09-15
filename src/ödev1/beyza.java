@@ -6,52 +6,53 @@ public class beyza {
 		// TODO Auto-generated method stub
 
 	
-	 // evin giriş noktası maindir.
-		System.out.println("Merhaba java");
-		System.out.println("Merhaba java1");
-		// case sensetive java büyük küçük harf duyarlı bir yazılım dilidir.
-		
-		
-		
-		
-		int oğrencıSayısı = 11;
-		String mesaj = "Öğrenci sayısı : ";
-		System.out.println("Öğrenci sayım = "+ oğrencıSayısı ); 
-		System.out.println("Öğrenci sayım = 10");
-	     System.out.println("Öğrenci sayım = 10");
-	     System.out.println("Öğrenci sayım = 10");	
-	     System.out.println( mesaj  + oğrencıSayısı); 
-	     
-	     System.out.println(mesaj  +  oğrencıSayısı ); 
-	     
-	     int sayı = 40; 
-	     if (sayı<20) {
-	    	 System.out.println("sayı 20 den küçüktür");
-	     }else if (sayı==20){                                                                                                    
-	    	 System.out.println("sayı 20 ye eşittir");
-	     }else {
-	    	 System.out.println("sayı 20 den büyükür");
-	    	
-	    	 
-	     }
-	    
-		     int sayı2 =40 ; 
-		     if (sayı<20) {
-		    	 System.out.println("sayı 20 den küçüktür");
-		     }else if (sayı==20){                                                                                                    
-		    	 System.out.println("sayı 20 ye eşittir");
-		     }else {
-		    	 System.out.println("sayı 20 den büyükür");
+
+
+		 // evin giriş anadir.
+			Sistem . dışarı . println ( "Merhaba java" );
+			Sistem . dışarı . println ( "Merhaba java1" );
+			// case sensetive java büyük küçük duyarlı bir yazılım dilidir.
+			
+			
+			
+			
+			int  oğrenciSayısı = 11 ;
+			String  mesaj = "Öğrenci sayısı : " ;
+			Sistem . dışarı . println ( "Öğrenci sayım = " + oğrenciSayısı );
+			Sistem . dışarı . println ( "Öğrenci sayım = 10" );
+		     Sistem . dışarı . println ( "Öğrenci sayım = 10" );
+		     Sistem . dışarı . println ( "Öğrenci sayım = 10" );	
+		     Sistem . dışarı . println ( mesaj   + oğrenciSayısı );
+		     
+		     Sistem . dışarı . println ( mesaj   +   oğrenciSayısı );
+		     
+		     int  sayı = 40 ;
+		     if ( sayı < 20 ) {
+		    	 Sistem . dışarı . println ( "sayı 20 den düşük" );
+		     } else  if ( sayı == 20 ){                                                                                                    
+		    	 Sistem . dışarı . println ( "sayı 20 ye" );
+		     } başka {
+		    	 Sistem . dışarı . println ( "sayı 20 den büyükür" );
+		    	
 		    	 
-	
-	
-	
-	}
-		     int sayı3 =40 ; 
-		     if (sayı<20) {
-		    	 System.out.println("sayı 20 den küçüktür");
-		     }else if (sayı==20){                                                                                                    
-		    	 System.out.println("sayı 20 ye eşittir");
-		     }else {
-		    	 System.out.println("sayı 20 den büyükür");
-}
+		     }
+		    
+			     int  sayı2 = 40 ;
+			     if ( sayı < 20 ) {
+			    	 Sistem . dışarı . println ( "sayı 20 den düşük" );
+			     } else  if ( sayı == 20 ){                                                                                                    
+			    	 Sistem . dışarı . println ( "sayı 20 ye" );
+			     } başka {
+			    	 Sistem . dışarı . println ( "sayı 20 den büyükür" );
+			    	 
+		
+		
+		
+		}
+			     int  sayı3 = 40 ;
+			     if ( sayı < 20 ) {
+			    	 Sistem . dışarı . println ( "sayı 20 den düşük" );
+			     } else  if ( sayı == 20 ){                                                                                                    
+			    	 Sistem . dışarı . println ( "sayı 20 ye" );
+			     } başka {
+			    	 Sistem . dışarı . println ( "sayı 20 den büyükür" );}	     
