@@ -55,4 +55,52 @@ public class beyza {
 			     } else  if ( sayı == 20 ){                                                                                                    
 			    	 Sistem . dışarı . println ( "sayı 20 ye" );
 			     } başka {
-			    	 Sistem . dışarı . println ( "sayı 20 den büyükür" );}	     
+			    	 Sistem . dışarı . println ( "sayı 20 den büyükür" );
+			    	 
+			     
+			     
+			     
+			    		System.out.println("hello world");
+			    		System.out.println("beyza study");
+			    		
+			    		int oğrencisayısı = 12;
+			    		System.out.println("oğrenci sayım : "+oğrencisayısı);
+			    		System.out.println("oğrenci sayım :11 ");
+			    		System.out.println("oğrenci sayım :11 ");
+			    		System.out.println("oğrenci sayım :11 ");
+			    		System.out.println("oğrenci sayım : 11");
+			    		
+			    		int sayı = 24;
+			    		if (sayı<20) {
+			    		System.out.println("sayı 20 den küçüktür");	
+			    		}else if (sayı==20)	{
+			    			System.out.println("sayı 20 ye eşittir");
+			    		}else {
+			    				System.out.println("sayı 20 den büyüktür");
+			    					     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     
+			     }	     
