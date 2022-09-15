@@ -31,11 +31,18 @@ public class beyza {
 	    	 System.out.println("sayı 20 ye eşittir");
 	     }else {
 	    	 System.out.println("sayı 20 den büyükür");
-	    	 
+	    	
 	    	 
 	     }
 	    
-	
+		     int sayı2 =40 ; 
+		     if (sayı<20) {
+		    	 System.out.println("sayı 20 den küçüktür");
+		     }else if (sayı==20){                                                                                                    
+		    	 System.out.println("sayı 20 ye eşittir");
+		     }else {
+		    	 System.out.println("sayı 20 den büyükür");
+		    	 
 	
 	
 	
